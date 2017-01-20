@@ -23,7 +23,7 @@ while True:
         print('somethign is moving %s' %(time.ctime())) # You can customize your own ALARM here
         out.write(frame)
         global num
-        num=num+1
+        num=num+1 
         
 
     
